@@ -3,7 +3,7 @@
 
 Script PowerShell que aplica configurações de política de grupo via registro do Windows,
 baseado no método apresentado por **Enzo Túlio** (canal [1155 do ET](https://www.youtube.com/@1155doET))
-no vídeo ["SÓ CONSIGO USAR O WINDOWS 11 ASSIM!"](https://www.youtube.com/watch?v=kQM-iv7TQz0&t=2258s).
+no vídeo ["SÓ CONSIGO USAR O WINDOWS 11 ASSIM!"](https://youtu.be/kQM-iv7TQz0?t=1619).
 
 ## O que faz
 

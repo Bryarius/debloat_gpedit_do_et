@@ -21,3 +21,10 @@ políticas de grupo (GPEdit) aplicadas manualmente no vídeo.
 
 ```powershell
 irm https://raw.githubusercontent.com/Bryarius/debloat_gpedit_do_et/main/debloat.ps1 | iex   
+``` 
+
+## Como foi feito
+
+Veja aqui a tomação de gap durante a produção do script diretamente do seu berço
+
+["Conversa com o Cloude"](https://claude.ai/share/3116fd4a-bf03-47b2-b809-4174d13274e5)
